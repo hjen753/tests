@@ -1,5 +1,5 @@
 this is file
-before
+before  newfile test
 double before
 aaaa
 bbbb master text
