@@ -1,5 +1,7 @@
+file test
 this is file
 before  newfile test
 double before
 aaaa
 bbbb master text
+
